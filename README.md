@@ -10,7 +10,6 @@ These files are:
 * Plot2.R
 * Plot3.R
 * Plot4.R
-
 * Plot1.PNG
 * Plot2.PNG
 * Plot3.PNG
